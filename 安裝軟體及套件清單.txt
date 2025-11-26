@@ -9,3 +9,5 @@
 8.pip install ipywidgets
 9.pip install wfastcgi
 10.pip install pyinstaller
+
+123456
