@@ -1,0 +1,11 @@
+安裝軟體及套件清單
+1.Python 3，安裝時請務必勾選 "Add Python to PATH" 選項
+2.pip install pandas
+3.pip install openpyxl
+4.pip install Flask
+5.pip install requests
+6.pip install ldap3
+7.pip install pycryptodome
+8.pip install ipywidgets
+9.pip install wfastcgi
+10.pip install pyinstaller
